@@ -1,2 +1,2 @@
 # django-rest-framework
-API Rest feita em python
+API Rest
