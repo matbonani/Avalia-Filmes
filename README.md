@@ -1,2 +1,2 @@
 # django-rest-framework
-API Rest
+API de cadastro para filmes e suas avaliaçẽos.
