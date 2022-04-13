@@ -12,12 +12,12 @@
 <br><br>
 
 <div align="left">
-O foco do projeto foi a criação de uma API REST para avaliações de filmes com notas entre 0 a 5, onde o usuário fica impossibilitado de avaliar o mesmo filme mais de uma vez. Foi utilizado o Django Rest Framework para criação da aplicação e consumida através do aplicativo Insomnia.
+O foco do projeto foi a criação de uma API REST para avaliações de filmes com notas entre 0 a 5, onde o usuário fica impossibilitado de avaliar o mesmo filme mais de uma vez. Foi utilizado o Django Rest Framework para criação da aplicação, SQLite para o banco de dados e consumida através do aplicativo Insomnia.
 </div>
 
 <h2> Quer contribuir? </h2>
 <br>
-Este é um respositório público, logo você está livre para ter uma cópia do projeto,  e se achar algum problema ou tiver alguma contribuição, pode fazer um **fork** do projeto, e sinta-se a vontade para fazer um **pull request**.
+Este é um respositório público, logo você está livre para ter uma cópia do projeto,  e se achar algum problema ou tiver alguma contribuição, pode fazer um <strong>fork</strong> do projeto, e sinta-se a vontade para fazer um <strong>pull request</strong>.
 
 
  Para rodar a aplicação, você precisará:
